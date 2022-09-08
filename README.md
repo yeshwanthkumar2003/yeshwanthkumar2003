@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [viyesh.blogspot.com](viyesh.blogspot.com)
 
-- 💬 Ask me about **MERN,Python,JS**
+- 💬 Ask me about **AWS MERN,Python,JS**
 
 - 📫 How to reach me **yeshwanth.ac.in@gmail.com**
 

@@ -27,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yeshwanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yeshwanth" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yeshwanthkumarsundar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeshwanthkumarsundar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yeshwanthkumar-sundar-3a1b311bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeshwanthkumarsundar" height="30" width="40" /></a>
 <a href="https://codesandbox.com/yeshwanth s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="yeshwanth s" height="30" width="40" /></a>
 <a href="https://kaggle.com/yeshwanth354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yeshwanth354" height="30" width="40" /></a>
 <a href="https://instagram.com/yeshwanth354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yeshwanth354" height="30" width="40" /></a>

@@ -72,6 +72,6 @@ I am Arun Pandian R. I am a self-motivated Developer👨‍💻, passionate Data
 
 ## 📈 My Stats
 <p align='center' >
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunpandian7&show_icons=true&theme=dark" width=420/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunpandian7&layout=compact&theme=dark">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeshwanthkumar2003&show_icons=true&theme=dark" width=420/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeshwanthkumar2003&layout=compact&theme=dark">
 <p/>

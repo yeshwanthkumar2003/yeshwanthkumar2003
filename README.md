@@ -48,7 +48,7 @@ I am Yeshwanthkumar S. I am a passionate Cloud Engineer👨‍💻,self-motivate
 
 ### 🔌 Electronics kit
 <p align="center">
-<img alt="Docker" src="(https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white"/> <img alt="AWS" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> 
+<img alt="Docker" src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white"/> <img alt="AWS" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> 
 </p>
 
 <details>

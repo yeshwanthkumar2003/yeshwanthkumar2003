@@ -11,7 +11,7 @@
 
 <h4 align="center">Say hello to your friend</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/yeshwanthkumar-sundar-3a1b311bb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arunpandian-rk7" height="20" width="30" /></a><a href="https://instagram.com/mr.eager_beaver" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arun_rk7" height="20" width="30" /></a><a href="https://www.youtube.com/kavi community" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="20" width="30" /></a>
+<a href="https://www.linkedin.com/in/yeshwanthkumar-sundar-3a1b311bb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arunpandian-rk7" height="20" width="30" /></a><a href="https://instagram.com/mr.eager_beaver" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arun_rk7" height="20" width="30" /></a><a href="https://www.youtube.com/channel/UCx1A3ZtV83pwFXSRAfNvqhQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="20" width="30" /></a>
 </p>
 
 ### Who am I ? 🤔

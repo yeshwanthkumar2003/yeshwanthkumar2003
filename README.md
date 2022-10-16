@@ -1,6 +1,6 @@
 <h5 align="center"> Hi there 👋, I am</h5>
 <p align="center">
-<a href="https://yeshwanth354.netlify.app/"><img align="center" width="200px" height="200px src="https://t3.ftcdn.net/jpg/03/71/70/44/360_F_371704416_E388cT6abCJo9qkmJYoJdLKbmYi3Zhjd.jpg"/></a>
+<a href="https://yeshwanth354.netlify.app/"><img align="center" width="200px" height="200px src="https://github.com/yeshwanthkumar2003/yeshwanthkumar2003/blob/main/yk%20logo.jpg"/></a>
 </p>
 <h2 align="center"> YESHWANTHKUMAR S </h2>
 <p align="center">

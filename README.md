@@ -76,5 +76,5 @@ I am Yeshwanthkumar S. I am a passionate Cloud Engineer👨‍💻,self-motivate
 ## 📈 My Stats
 <p align='center' >
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yeshwanthkumar2003&theme=tokyonight&show_icons=true" width=420/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeshwanthkumar2003&layout=compact&theme=dark"
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeshwanthkumar2003&theme=tokyonight&hide_progress=true"
 <p/>
